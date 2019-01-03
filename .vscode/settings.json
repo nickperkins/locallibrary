@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/nick.perkins/.virtualenvs/locallibrary/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-django"
+    ]
+}
